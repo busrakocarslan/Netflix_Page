@@ -95,5 +95,5 @@ div#submit input:hover {
   color: red;
   background-color: white;
   text-decoration: underline;
-  font-weight: bold;
+  font-weight: 2.5rem;
 }
